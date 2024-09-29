@@ -1,0 +1,42 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore temporary files
+temp/
+logs/
+build/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+
+# Rider specific files
+.idea/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Others
+*.db
